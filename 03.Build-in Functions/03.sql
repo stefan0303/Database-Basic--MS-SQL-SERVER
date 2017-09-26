@@ -1,0 +1,1 @@
+SELECT firstname from Employees Where HireDate >'1995-01-01' and HireDate<='2005-12-31' and DepartmentID=3 or DepartmentID=10

@@ -1,0 +1,1 @@
+select firstname,lastname,salary from Employees where Employees.Salary>50000 order by Salary desc

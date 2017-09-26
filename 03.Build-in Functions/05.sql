@@ -1,0 +1,1 @@
+Select name from Towns where LEN(Name)=5 or LEN(Name)=6 Order by Name

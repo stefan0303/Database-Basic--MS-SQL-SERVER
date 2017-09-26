@@ -1,0 +1,1 @@
+CREATE view V_EmployeesSalaries AS SELECT FirstName,LastName,Salary from Employees

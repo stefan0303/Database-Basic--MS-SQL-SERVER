@@ -1,0 +1,1 @@
+SELECT firstName,LastName from Employees where not JobTitle like '%engineer%'

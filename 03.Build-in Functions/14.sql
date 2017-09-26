@@ -1,0 +1,1 @@
+SELECT userName,IpAddress from Users where SUBSTRING(IpAddress,4,2)='.1'and SUBSTRING(IpAddress,LEN(IpAddress)-3,1)='.' order by Username

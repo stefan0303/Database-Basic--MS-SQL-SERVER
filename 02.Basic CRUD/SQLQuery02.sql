@@ -1,0 +1,1 @@
+select DepartmentId,name,ManagerID from Departments
